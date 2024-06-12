@@ -1,0 +1,16 @@
+spring:
+  config:
+    activate:
+      on-profile: "qa"
+
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to GiitBank accounts related QA API"
+  contactDetails:
+    name: "pramod QA-Lead"
+    email: "Pramod@giit.com"
+  onCallSupport:
+    - (91) 902356787
+    - (91) 556782838

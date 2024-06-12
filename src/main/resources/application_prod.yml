@@ -1,0 +1,16 @@
+spring:
+  config:
+    activate:
+      on-profile: "prod"
+
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to GiitBank accounts related prod API"
+  contactDetails:
+    name: "shyam sundar-Product Owner"
+    email: "sundar@giit.com"
+  onCallSupport:
+    - (91) 82836342
+    - (91) 700672454
